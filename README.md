@@ -2,7 +2,6 @@
 
 Open **PowerShell** in the project folder:
 
-    ```powershell
     # 1) Create & activate a virtual environment
     python -m venv .venv
     .\.venv\Scripts\Activate.ps1
