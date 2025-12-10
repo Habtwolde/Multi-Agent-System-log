@@ -22,6 +22,8 @@ Open **PowerShell** in the project folder:
       gpt-oss:20b
       zephyr
 
+      Or Either change the models you in python so that you can change to the one's you have.
+
 ### 3) Install pytorch that runs on GPU
 
     ```powershell
