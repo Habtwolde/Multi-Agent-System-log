@@ -1,6 +1,6 @@
 ### 1) Install Python dependencies
 
-    Open **PowerShell** in the project folder:
+Open **PowerShell** in the project folder:
 
     ```powershell
     # 1) Create & activate a virtual environment
