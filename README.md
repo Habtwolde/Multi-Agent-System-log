@@ -23,8 +23,9 @@
       zephyr
 
 ## 3) Install pytorch that runs on GPU
-```powershell
-pip install "torch==2.3.1+cu121" --index-url https://download.pytorch.org/whl/cu121```
+
+    ```powershell
+    pip install "torch==2.3.1+cu121" --index-url https://download.pytorch.org/whl/cu121```
 
 ## 4) Run the app
 
