@@ -1,4 +1,4 @@
-## 1) Install Python dependencies
+### 1) Install Python dependencies
 
     Open **PowerShell** in the project folder:
 
@@ -16,19 +16,19 @@
     If PowerShell blocks script execution, run:
     Set-ExecutionPolicy -Scope CurrentUser RemoteSigned (then retry activation).
 
-## 2) Please makes sure you have 
+### 2) Please makes sure you have 
       llama3
       llama3.1:8b
       gpt-oss:20b
       zephyr
 
-## 3) Install pytorch that runs on GPU
+### 3) Install pytorch that runs on GPU
 
     ```powershell
     pip install "torch==2.3.1+cu121" --index-url https://download.pytorch.org/whl/cu121```
 
-## 4) Run the app
+### 4) Run the app
 
 With your virtual environment activated:
 
-    python -m  streamlit run app.py
+    python -m  run app.py
